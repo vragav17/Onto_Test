@@ -1,0 +1,3 @@
+Body-centered cubic lattice (bcc or cubic-I), like all lattices, has lattice points at the eight corners of the unit cell plus an additional points at the center of the cell. It has unit cell vectors a = b = c and interaxial angles α=β=γ=90°.
+
+The simplest crystal structures are those in which there is only a single atom at each lattice point. In the bcc structures the spheres fill 68 % of the volume. The number of atoms in a unit cell is two (8 × 1/8 + 1 = 2). There are 23 metals that have the bcc lattice.
